@@ -1,0 +1,34 @@
+body {
+    font-size: 15pt;
+    background-color: rgb(35,33,33);
+}
+
+#console {
+  width: 100%;
+  background-color: #302C2C;
+  border: 1px solid white;
+  color: white;
+  position: relative;
+  margin-top: 35%;
+  height: 20em;
+  border-radius: 5px;
+}
+
+#cmdline {
+  width: 85%;
+  background-color: rgb(200,0,0,0);
+  border: 0px;
+  color: white;
+}
+
+button {
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  background-color: #050404;
+  transition: 1s;
+}
+
+button:hover {
+ background-color: #262525;
+}

@@ -1,0 +1,14 @@
+{
+  "list": [
+  {
+    "name": "Package Installer Module",
+    "href": "packageInstaller.module.js",
+    "authors": "ChocolateCode4"
+  },
+    {
+      "name": "Hi Module",
+      "href": "hi.js",
+      "authors": "ChocolateCode4"
+    }
+  ]
+}
